@@ -1,6 +1,6 @@
 # Uzbek-language
 
-
+I am editing the README file. Adding some more details about the project description.
 
 This package was created to correct Uzbek spelling mistakes and translate from Latin to Cyrillic
 
